@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="2.0" Creator="SCRIOS-1.2.1-2096" Modified="2021-11-18 21:18:26 +0100" Device="DD Audio Studio" Checksums="E92A3190-DC9B-4850-BC14-8BC7393BB577">
+	<Binder>
+		<BinderItem UUID="D9859886-7CE6-4E75-94F9-E07BF4F92180" Type="Text" Created="2016-02-04 13:20:27 +0100" Modified="2021-11-18 20:19:38 +0100">
+			<Title>Start Here</Title>
+			<MetaData>
+				<LabelID>-1</LabelID>
+				<StatusID>-1</StatusID>
+				<IncludeInCompile>Yes</IncludeInCompile>
+				<IconFileName>Information</IconFileName>
+			</MetaData>
+			<TextSettings><TextSelection>996,0</TextSelection></TextSettings>
+		</BinderItem>
+		<BinderItem UUID="19066AFD-462C-4EFD-B7A2-EAEE93889A06" Type="Text" Created="2016-02-04 16:57:31 +0100" Modified="2016-07-20 22:35:31 +0200">
+			<Title>Key Concepts</Title>
+			<MetaData>
+				<LabelID>-1</LabelID>
+				<StatusID>-1</StatusID>
+				<IncludeInCompile>Yes</IncludeInCompile>
+				<IconFileName>Light Bulb</IconFileName>
+			</MetaData>
+			<TextSettings><TextSelection>0,0</TextSelection></TextSettings>
+		</BinderItem>
+		<BinderItem UUID="0368C574-04DD-4885-94A4-A6C3FC4CC5AE" Type="DraftFolder" Created="2016-02-04 13:20:05 +0100" Modified="2016-02-04 13:20:05 +0100">
+			<Title>Draft</Title>
+			<MetaData>
+				<LabelID>-1</LabelID>
+				<StatusID>-1</StatusID>
+			</MetaData>
+			<Children>
+			<BinderItem UUID="37C72E9A-0672-42DF-816E-CD5D94F25C1C" Type="Text" Created="2016-02-04 16:59:49 +0100" Modified="2021-11-18 20:34:11 +0100">
+				<Title>The Basics</Title>
+				<MetaData>
+					<LabelID>-1</LabelID>
+					<StatusID>-1</StatusID>
+					<IncludeInCompile>Yes</IncludeInCompile>
+				</MetaData>
+				<TextSettings><TextSelection>1491,0</TextSelection></TextSettings>
+			</BinderItem>
+			<BinderItem UUID="B95B97DF-BE28-4526-9FC9-E980FFE57503" Type="Folder" Created="2016-02-04 18:04:36 +0100" Modified="2016-02-05 16:29:52 +0100">
+				<Title>The Main Interface</Title>
+				<MetaData>
+					<LabelID>-1</LabelID>
+					<StatusID>-1</StatusID>
+					<IncludeInCompile>Yes</IncludeInCompile>
+				</MetaData>
+				<TextSettings><TextSelection>61,0</TextSelection></TextSettings>
+				<Children>
+				<BinderItem UUID="EDD0CDEA-75B0-4568-BBE2-FD5870049CED" Type="Text" Created="2016-02-04 18:38:58 +0100" Modified="2016-05-18 12:42:47 +0200">
+					<Title>The Binder</Title>
+					<MetaData>
+						<LabelID>-1</LabelID>
+						<StatusID>-1</StatusID>
+						<IncludeInCompile>Yes</IncludeInCompile>
+					</MetaData>
+					<TextSettings><TextSelection>661,0</TextSelection></TextSettings>
+					<Children>
+					<BinderItem UUID="583EE49C-2949-46D7-8787-A921D5DE23BD" Type="Text" Created="2016-02-04 20:09:35 +0100" Modified="2016-03-30 12:57:23 +0200">
+						<Title>Special Folders</Title>
+						<MetaData>
+							<LabelID>-1</LabelID>
+							<StatusID>-1</StatusID>
+							<IncludeInCompile>Yes</IncludeInCompile>
+						</MetaData>
+						<TextSettings><TextSelection>0,0</TextSelection></TextSettings>
+					</BinderItem>
+					<BinderItem UUID="713E44FF-5574-43A3-9D75-96E410DEC41E" Type="Text" Created="2016-02-04 20:24:47 +0100" Modified="2016-12-14 14:21:29 +0100">
+						<Title>Working with Documents</Title>
+						<MetaData>
+							<LabelID>-1</LabelID>
+							<StatusID>-1</StatusID>
+							<IncludeInCompile>Yes</IncludeInCompile>
+						</MetaData>
+						<TextSettings><TextSelection>0,0</TextSelection></TextSettings>
+					</BinderItem>
+					</Children>
+				</BinderItem>
+				<BinderItem UUID="1D50EBDD-93F2-4434-AD5E-BD7F1FCB67C2" Type="Text" Created="2016-02-04 20:35:12 +0100" Modified="2017-11-23 13:35:31 +0100">
+					<Title>The Editor</Title>
+					<MetaData>
+						<LabelID>-1</LabelID>
+						<StatusID>-1</StatusID>
+						<IncludeInCompile>Yes</IncludeInCompile>
+					</MetaData>
+					<TextSettings><TextSelection>0,0</TextSelection></TextSettings>
+					<Children>
+					<BinderItem UUID="EC7EDF98-E5D3-4644-A649-0D72F0BD0BFE" Type="Text" Created="2016-02-12 16:52:46 +0100" Modified="2016-05-18 19:07:06 +0200">
+						<Title>Referring To Research</Title>
+						<MetaData>
+							<LabelID>-1</LabelID>
+							<StatusID>-1</StatusID>
+							<IncludeInCompile>Yes</IncludeInCompile>
+						</MetaData>
+						<TextSettings><TextSelection>0,0</TextSelection></TextSettings>
+					</BinderItem>
+					<BinderItem UUID="69D05516-94C0-41F8-BF1A-FB8D5B00BE2C" Type="Text" Created="2016-02-12 16:54:12 +0100" Modified="2016-12-14 14:23:58 +0100">
+						<Title>Finding Your Place</Title>
+						<MetaData>
+							<LabelID>-1</LabelID>
+							<StatusID>-1</StatusID>
+							<IncludeInCompile>Yes</IncludeInCompile>
+						</MetaData>
+						<TextSettings><TextSelection>0,0</TextSelection></TextSettings>
+					</BinderItem>
+					<BinderItem UUID="41BF8746-1924-44D7-A7AE-B4D019AACBD1" Type="Text" Created="2016-02-12 16:54:24 +0100" Modified="2016-07-22 13:16:35 +0200">
+						<Title>Scriptwriting</Title>
+						<MetaData>
+							<LabelID>-1</LabelID>
+							<StatusID>-1</StatusID>
+							<IncludeInCompile>Yes</IncludeInCompile>
+						</MetaData>
+						<TextSettings><TextSelection>0,0</TextSelection></TextSettings>
+					</BinderItem>
+					</Children>
+				</BinderItem>
+				<BinderItem UUID="5EDEBB94-5C7A-47AD-B6AB-8E21ACA120FD" Type="Text" Created="2016-02-04 23:06:48 +0100" Modified="2016-03-30 13:46:58 +0200">
+					<Title>The Inspector</Title>
+					<MetaData>
+						<LabelID>-1</LabelID>
+						<StatusID>-1</StatusID>
+						<IncludeInCompile>Yes</IncludeInCompile>
+					</MetaData>
+					<TextSettings><TextSelection>0,0</TextSelection></TextSettings>
+				</BinderItem>
+				<BinderItem UUID="3DD8E2EA-5014-43D1-9E1B-35C1AFE07DAB" Type="Text" Created="2016-02-05 16:18:45 +0100" Modified="2016-12-14 14:41:55 +0100">
+					<Title>The Corkboard</Title>
+					<MetaData>
+						<LabelID>-1</LabelID>
+						<StatusID>-1</StatusID>
+						<IncludeInCompile>Yes</IncludeInCompile>
+					</MetaData>
+					<TextSettings><TextSelection>0,0</TextSelection></TextSettings>
+				</BinderItem>
+				<BinderItem UUID="C5FC7604-C431-42FD-B614-9DAF1DC6F0E8" Type="Text" Created="2016-12-14 14:16:11 +0100" Modified="2016-12-14 16:34:32 +0100">
+					<Title>Document Templates</Title>
+					<MetaData>
+						<LabelID>-1</LabelID>
+						<StatusID>-1</StatusID>
+						<IncludeInCompile>Yes</IncludeInCompile>
+					</MetaData>
+					<TextSettings><TextSelection>0,0</TextSelection></TextSettings>
+				</BinderItem>
+				</Children>
+			</BinderItem>
+			<BinderItem UUID="70226D53-9976-46E4-B951-4AF8B3EDC1B7" Type="Text" Created="2016-02-05 16:49:28 +0100" Modified="2021-11-18 21:16:32 +0100">
+				<Title>Exporting and Printing</Title>
+				<MetaData>
+					<LabelID>-1</LabelID>
+					<StatusID>-1</StatusID>
+					<IncludeInCompile>Yes</IncludeInCompile>
+				</MetaData>
+				<TextSettings><TextSelection>3696,0</TextSelection></TextSettings>
+			</BinderItem>
+			<BinderItem UUID="261B3533-108A-4561-AC68-59688BC20F16" Type="Text" Created="2016-02-05 17:30:54 +0100" Modified="2016-04-06 18:01:35 +0200">
+				<Title>Working with Projects</Title>
+				<MetaData>
+					<LabelID>-1</LabelID>
+					<StatusID>-1</StatusID>
+					<IncludeInCompile>Yes</IncludeInCompile>
+				</MetaData>
+				<TextSettings><TextSelection>0,0</TextSelection></TextSettings>
+			</BinderItem>
+			<BinderItem UUID="4BC71F19-A5D5-4DA2-8D48-DAFC3DBDA679" Type="Text" Created="2016-02-12 14:02:43 +0100" Modified="2016-07-22 13:12:37 +0200">
+				<Title>Syncing</Title>
+				<MetaData>
+					<LabelID>-1</LabelID>
+					<StatusID>-1</StatusID>
+					<IncludeInCompile>Yes</IncludeInCompile>
+				</MetaData>
+				<TextSettings><TextSelection>0,0</TextSelection></TextSettings>
+			</BinderItem>
+			<BinderItem UUID="D4CEBE5C-C424-428F-9F48-12FBDBE9ADE1" Type="Text" Created="2021-11-18 20:21:59 +0100" Modified="2021-11-18 20:32:19 +0100">
+				<Title>Übung</Title>
+				<MetaData>
+					<LabelID>-1</LabelID>
+					<StatusID>-1</StatusID>
+					<IncludeInCompile>Yes</IncludeInCompile>
+				</MetaData>
+				<TextSettings><TextSelection>394,0</TextSelection></TextSettings>
+			</BinderItem>
+			</Children>
+		</BinderItem>
+		<BinderItem UUID="92F1D2EC-D107-43E9-BB59-BFBB8CCFE0CF" Type="Text" Created="2016-02-05 18:26:32 +0100" Modified="2021-11-18 21:02:13 +0100">
+			<Title>And Finally...</Title>
+			<MetaData>
+				<LabelID>-1</LabelID>
+				<StatusID>-1</StatusID>
+				<IncludeInCompile>Yes</IncludeInCompile>
+			</MetaData>
+			<TextSettings><TextSelection>612,0</TextSelection></TextSettings>
+		</BinderItem>
+		<BinderItem UUID="6BF1DE0B-ED7B-4365-9767-366C5EDE7DEB" Type="ResearchFolder" Created="2016-02-04 13:20:05 +0100" Modified="2016-02-04 13:20:05 +0100">
+			<Title>Research</Title>
+			<MetaData>
+				<LabelID>-1</LabelID>
+				<StatusID>-1</StatusID>
+			</MetaData>
+		</BinderItem>
+		<BinderItem UUID="8DA24A49-FACA-4FB5-850D-446A453E6AF5" Type="Folder" Created="2016-12-14 14:24:33 +0100" Modified="2016-12-14 14:24:33 +0100">
+			<Title>Templates</Title>
+			<MetaData>
+				<LabelID>-1</LabelID>
+				<StatusID>-1</StatusID>
+				<IncludeInCompile>Yes</IncludeInCompile>
+			</MetaData>
+			<TextSettings><TextSelection>0,0</TextSelection></TextSettings>
+			<Children>
+			<BinderItem UUID="F68B072F-DD6C-4F90-981B-57AC240EC338" Type="Text" Created="2016-12-14 14:25:53 +0100" Modified="2016-12-14 14:25:54 +0100">
+				<Title>Character Sheet</Title>
+				<MetaData>
+					<LabelID>-1</LabelID>
+					<StatusID>-1</StatusID>
+					<IncludeInCompile>Yes</IncludeInCompile>
+					<IconFileName>Characters (Character Sheet).tiff</IconFileName>
+				</MetaData>
+				<TextSettings><TextSelection>0,0</TextSelection></TextSettings>
+			</BinderItem>
+			<BinderItem UUID="BBCC1D93-B022-4182-9A78-D0C8792B931C" Type="Text" Created="2016-12-14 14:26:48 +0100" Modified="2016-12-14 14:26:49 +0100">
+				<Title>Location Sheet</Title>
+				<MetaData>
+					<LabelID>-1</LabelID>
+					<StatusID>-1</StatusID>
+					<IncludeInCompile>Yes</IncludeInCompile>
+					<IconFileName>Locations (Location Sheet).tiff</IconFileName>
+				</MetaData>
+				<TextSettings><TextSelection>0,0</TextSelection></TextSettings>
+			</BinderItem>
+			</Children>
+		</BinderItem>
+		<BinderItem UUID="1BD1239A-12DA-45D7-A64F-6EE3072A68FA" Type="TrashFolder" Created="2016-02-04 13:20:05 +0100" Modified="2016-02-04 13:20:05 +0100">
+			<Title>Trash</Title>
+			<MetaData>
+				<LabelID>-1</LabelID>
+				<StatusID>-1</StatusID>
+			</MetaData>
+		</BinderItem>
+	</Binder>
+	<LabelSettings>
+		<Title>Label</Title>
+		<DefaultLabelID>-1</DefaultLabelID>
+		<Labels>
+			<Label ID="-1" Color="0.0 0.0 0.0">No Label</Label>
+			<Label ID="0" Color="1.0 0.38 0.36">Red</Label>
+			<Label ID="1" Color="0.97 0.65 0.26">Orange</Label>
+			<Label ID="2" Color="0.96 0.81 0.27">Yellow</Label>
+			<Label ID="3" Color="0.43 0.8 0.31">Green</Label>
+			<Label ID="4" Color="0.27 0.73 0.96">Blue</Label>
+			<Label ID="5" Color="0.82 0.53 0.88">Purple</Label>
+		</Labels>
+	</LabelSettings>
+	<StatusSettings>
+		<Title>Status</Title>
+		<DefaultStatusID>-1</DefaultStatusID>
+		<StatusItems>
+			<Status ID="-1">No Status</Status>
+			<Status ID="0">To Do</Status>
+			<Status ID="1">First Draft</Status>
+			<Status ID="2">Revised Draft</Status>
+			<Status ID="3">Final Draft</Status>
+			<Status ID="4">Done</Status>
+		</StatusItems>
+	</StatusSettings>
+	<ProjectTargets>
+		<DraftTarget Type="Words">0</DraftTarget>
+		<SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No">0</SessionTarget>
+		<PreviousSession Words="0" Characters="0"></PreviousSession>
+	</ProjectTargets>
+</ScrivenerProject>

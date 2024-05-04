@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SearchIndexes Version="1.0">
+	<Documents>
+		<Document ID="261B3533-108A-4561-AC68-59688BC20F16">
+			<Title>Working with Projects</Title>
+			<Text>The Projects Screen
+You’ve already seen the main projects screen—you opened this tutorial from it. All of the Scrivener projects you have stored on your iOS device are listed in the projects screen, along with this tutorial and a page on how to get help. To edit the projects in this screen, tap Edit in the navigation bar above the sidebar. This will bring up a toolbar at the bottom of the sidebar that allows you to delete projects, duplicate or share them (for instance, for backup purposes) and to refresh the list after you’ve imported a new project from iTunes (via the gear icon). Long-press on a project to rename it.
+Note that, when viewing the projects screen, the sidebar lists projects in alphabetical order (and grouped by location if you have projects stored both locally and on Dropbox), whereas the grid of projects on the right is listed by date, with the most recently edited listed first.
+
+Getting Projects Into and Out of Scrivener
+You can use iTunes to bring projects into Scrivener as well as to export them as follows:
+1.	Connect your device to your computer.
+2.	Open iTunes.
+3.	Select your device.
+4.	Select “Apps”.
+5.	Scroll down to “File Sharing”.
+6.	Locate and select Scrivener in the list of apps.
+7.	To import a project, simply drag the Scrivener project (.scriv) file from the Finder (Mac) or Explorer (Windows—be sure to drag the entire .scriv project folder on Windows and not just the .scrivx file inside it) into the Documents list in iTunes.
+8.	To export a project, select the project in the Documents list in iTunes and click on the “Save to…” button.
+You can also export projects by entering “Edit” mode in the sidebar, selecting a single project, and tapping on the “share” button in the toolbar at the bottom of the sidebar. This allows you to email the project as a .zip file.
+On to the final part of this info-dump, then: “Syncing”.</Text>
+		</Document>
+		<Document ID="1D50EBDD-93F2-4434-AD5E-BD7F1FCB67C2">
+			<Title>The Editor</Title>
+			<Text>Text Editing
+The text you are reading now is contained in a full rich-text editor, so you can format your text however you want. (If the text is too small, by the way, you can use the pinch gesture to zoom in and out.) Tap into the text to start editing—try that now. You’ll notice that the icons in the nav bar at the top change:
+•	Tapping on the paintbrush icon brings up the formatting palette, which should be familiar to anyone who has used Pages. (On the iPhone, this icon is only available from the extended keyboard row—see below.) Note that although Scrivener allows you a great deal of control over the formatting, it is not intended as a replacement for a word processor—Scrivener is about hammering out your words. (It is not meant for advanced layout tasks such as wrapping text around images, for example.)
+•	The magnifying glass brings up Find and Replace.
+While you type, a live word count appears in the nav bar at the top of the screen. (You can change this to a character count—or have both—via the options in Settings app.) When you end editing, the word count appears in the toolbar at the bottom of the screen (iPad only).
+Note that, by default, Scrivener uses smart typography—so quotation marks, double- and triple-hyphens, and ellipses all get converted to their smart equivalents as you type. You can turn this off via Settings app if you prefer, and you can also change the type of quotes used for different languages.
+Typewriter Scrolling
+Typewriter mode is a special typing mode that is available on the iPad. You can turn it on by tapping the “T” icon in the navigation bar while editing, or via the Project Settings (the gear icon in the toolbar below the binder). In this mode, the line of text you are typing remains centred on the screen, so that your eyes aren’t always staring at the bottom of your iPad as you write. (You can change the position of the typewriter line via Scrivener’s options in Settings app.)
+
+The Extended Keyboard Row
+Above the keyboard (or at the bottom of the screen if you are using an external keyboard) you will notice that there is an extra row of keys. You can swipe left and right between three different sets of eight buttons, giving 24 in total. These provide options for punctuation, text navigation and formatting, and the keys shown here are fully customisable—tap and hold a button to bring up the customisation palette. You can thus set this row up to contain the commands that are most useful to you. (You can turn off the keyboard row entirely via Scrivener’s options in Settings app.)
+
+Targets
+Tapping on the live word/character count feature brings up the targets popover. Here you can view and set your current writing targets and your progress towards them. You can set two writing targets: the number of words or characters you wish to write in total in the Draft folder (the target for your entire manuscript, in other words), and a session target—the number of words or characters you wish to write during the current session. Tap on the target you wish to change to access the options.
+Progress towards the Draft target is indicated in the centre circle as a growing pie; progress towards the session target (if there is one) is indicated in the circle surrounding the Draft target pie. A “session” lasts for as long as you want—until you tap on “Start New Session” in the targets popover.
+
+Accessing Text Features
+Various text editing features can be found in the following places:
+– In the formatting palette (accessed by tapping on the paintbrush).
+– In the extended keyboard row.
+– Using the buttons that appear either side of the predictive text row (iPad only).
+– In the Edit menu (the black popover that appears when you tap and hold in the text).
+Some of those features include:
+•	Split: Split the current document in two at the current cursor position (available via the Edit menu).
+•	Comments and Footnotes: Attach comments and footnotes to the text (available in the extended keyboard row, the predictive text row, and in the Edit menu). Note that footnotes look like comments in Scrivener but become real footnotes when you export your text to a word processor using Word or RTF format (or they become endnotes when printing directly from Scrivener or exporting to PDF format). To open a comment or footnote—such as the ones attached to the bold text at the start of this paragraph—either double-tap on them while they are not selected, or use the Edit menu while they are selected.
+•	Inline Annotations and Footnotes: Inline notes are ranges of regular text that are marked up with bubbles—like the bold text at the start of this paragraph. Inline footnotes get turned into real footnotes when exported to RTF or Word (or endnotes when printing or exporting to PDF); inline annotations can be turned into comments or removed from the text when compiling, or are printed inside square brackets when printing. (Available from the extended keyboard row and the predictive text row on the iPad.)
+•	Links: You can add links to web pages or to other documents inside your Scrivener project (available via the extended keyboard row and the predictive text row on the iPad). To open a document link, double-tap on it, or select it and press to bring up the black edit menu and choose “Open Link”. On newer versions of iOS you can also simply long-press on a link to open it.
+•	Highlights: Available from the formatting palette and the extended keyboard row.
+•	Insert Images: Available through the predictive text row (iPad only) and the extended keyboard row.
+•	Formatting Presets/Styles: Available via the formatting palette. If you use the Mac version of Scrivener, you can export your formatting presets from the Mac via the Format &gt; Formatting &gt; Export Presets for iOS… command. You can then import the presets file into the iOS version by placing the exported presets.plist file in Dropbox and using “Open In” from Dropbox.app to open the file in Scrivener. (You can also import your own fonts via Dropbox’s “Open In” feature.)
+If you’re still in editing mode, leave it now by tapping Done, then move on to “Referring to Research” in the editor—if you collapsed “The Editor”, you’ll need to drill down into the subdocuments of “The Editor” by tapping on the chevron-in-a-circle next to it (or expand it again by swiping left on the row and tapping “Expand”).</Text>
+			<Comments>This is a comment.
+This is a footnote.</Comments>
+		</Document>
+		<Document ID="19066AFD-462C-4EFD-B7A2-EAEE93889A06">
+			<Title>Key Concepts</Title>
+			<Text>What is Scrivener?
+Scrivener is aimed at writers of all stripes—novelists, journalists, academics, screenwriters, playwrights—who need to structure a long piece of text. Scrivener is a ring-binder, a scrapbook, a corkboard, an outliner and a text editor all rolled into one. It is primarily intended as a first draft tool, a kind of writer’s shed for those of us who don’t have a spare shed.
+Below you’ll find a brief survey of the key concepts behind Scrivener—the ideas that led me to drop my pen, learn programming, and create Scrivener in the first place. If you’re a user of the desktop version, you’re no doubt familiar with much of this already, in which case you can happily skip this section (or you can skip it grumpily—in Scrivener, how you work is entirely up to you).
+
+
+Writing
+Conventional word processors are wonderful for all kinds of things, but I’ve always struggled with them when it comes to writing long texts, because I like to jump around, writing different sections as they come to me. Scrivener makes it easy to compose in any order you want, whether that’s from start to finish or completely at random.
+Word processors only ever know about the document you’re working on at any one time—if you have lots of different documents pertaining to a single project, it’s up to you to keep track of them. By contrast, Scrivener is a project-based app, and each project you create in Scrivener can contain as many documents as you desire. This means that you can write in chunks as large or small as you wish. If you’re writing a novel, for instance, you could write each chapter in a separate document, or you could break it down further and write each scene in a different document—it’s up to you. When you come to export or print your work, all of those myriad sections can be compiled into a single document.
+
+Research
+Scrivener projects aren’t only for storing text. Many books and long documents require a great deal of research, and you can import your research documents—images, PDF files, even movie and sound files—directly into Scrivener. So you can easily switch between your writing and a research document.
+Scrivener fully supports the iPad’s split screen feature, so that you can refer to information in other applications while you write. Just drag inwards from the right edge of the screen and select another app to open alongside Scrivener.
+Not only that: on an iPad, you can also view two documents alongside one another inside Scrivener, using the Quick Reference feature.
+
+Outlining
+Every writer approaches the task of putting together his or her ideas in a different way. To that end, Scrivener allows you to choose whatever structure best fits your project, and to work with an overview of that structure.
+Scrivener’s sidebar shows a nested list of documents that can be expanded and collapsed, so that you can work with your whole outline or only subsections of it. Here you can create not only as many text files as you wish, but also folders to contain your text files, and you can have folders within folders within folders. You can even nest text files inside other text files; in Scrivener, a folder is just a special type of text file, and you can freely convert between one and the other.
+How you structure your project is for you to decide—you might have a folder for each chapter, containing text documents for each scene; you might have no folders and just use text documents for each chapter; you might do something completely different. There’s no right way or wrong way; the idea is only that you find your way—the methods and structures that work best for you in your writing.
+Every document in a Scrivener project is associated with a synopsis and notes (assigned using the inspector). You can turn synopses on in the sidebar to get a more detailed overview of your outline. When running Scrivener on an iPad, you also have access to the corkboard, which shows the title and synopsis of each document inside any given folder. You can assign synopses manually, or leave them blank, in which case the first lines of the text are shown. This makes it easy to get an overview of your work, and to restructure it via drag and drop.
+If the idea of outlines makes you shudder, never fear: Scrivener imposes no fixed approach to writing and outlining. You might start by creating a bunch of folders and empty text files, creating synopses for each one on the corkboard or in the sidebar. Then you might go through and fill in the text files, referring to the synopses as a prompt for what you need to write. Conversely, you might write like crazy and worry about all the structural stuff only when your first draft is complete. In that case, you can just write away, creating new text documents as and when you feel like it, and you can split things apart and rearrange everything only much later in the process. Or you can use a combination of both methods. Most importantly, though, always remember that you can just ignore anything you don’t need.
+“That’s all very well,” I hear you declaim, “but I didn’t come here for an advertorial. Just get on with it and tell me how you use the thing already.” Right-oh! To get started, tap on the “Draft” folder in the sidebar to drill down into it, and then select the document entitled “The Basics”. See you there!</Text>
+		</Document>
+		<Document ID="B95B97DF-BE28-4526-9FC9-E980FFE57503">
+			<Title>The Main Interface</Title>
+			<Synopsis>An introduction to the main features of Scrivener: the binder, the editor, the inspector and the corkboard.</Synopsis>
+			<Text>This is the text of the folder entitled “The Main Interface”.</Text>
+		</Document>
+		<Document ID="BBCC1D93-B022-4182-9A78-D0C8792B931C">
+			<Title>Location Sheet</Title>
+			<Text>Name of Setting
+Role in Story
+
+
+Related Characters
+
+
+Season
+
+
+Unique Features
+
+
+Description
+
+
+Sights
+
+
+Sounds
+
+
+Smell
+
+
+Notes
+
+</Text>
+		</Document>
+		<Document ID="37C72E9A-0672-42DF-816E-CD5D94F25C1C">
+			<Title>The Basics</Title>
+			<Text>Projects and Documents
+Before going any further, in the great tradition of academic debate, let’s define our terms. When you want to write a new book or long text, you create a new project via the projects screen. When you open a project, you first see the project home, which shows a list of top-level folders and files along with the “Recents” and “Bookmarks” lists. A project in Scrivener can contain many documents (although sometimes I might refer to documents as “files” for a bit of variety—please forgive me my inconsistencies). Documents can be text files, images, or anything that’s contained inside the project. You can arrange your documents by placing them in folders—which are just a special type of document. Any document can act as a group, though, not just folders—you can, for instance, nest a text file inside another text file. The main difference is that when you tap on a folder in the binder, it will drill down a level if it’s not expanded (more on that later), whereas when you tap on a regular document, its content is opened in the editor.
+
+The Interface
+Scrivener’s main interface is made up of the following components:
+- Binder
+- Editor
+- Inspector
+- Corkboard (iPad only)
+The binder is the name we use for the sidebar whenever a project is open (when a project is not open, the sidebar is referred to as the projects list). It’s called the binder because it acts like a ring-binder: it holds all of the files in your project, and you can arrange it however yo u wish. (Although I’ll be referring to the “sidebar” throughout this tutorial, on most iPhones, where there is not enough space to show the binder and editor side-by-side, the binder will appear on its own screen. You’ll access it from the editor by tapping the back button. You can try rotating your device to see what happens.)
+The editor contains the text you are reading right now. This is where you’ll do all your writing. I tcan also show research documents, such as images and PDF files.
+The can be in the toolbar below the editor (iPhone); tap and hold on a document in the binder; double-tap on an index card in the corkboard. The inspector shows—and allows you to edit—various meta-data associated with a document, such as its title, synopsis, notes, label and status. You can also assign custom icons to documents via the inspector.
+Note: If at any point you do not see the icons being described, you might be in editing mode; if so, tap Done at the top of the screen.
+The corkboard is a special editor view that shows all of the subdocuments of a group as index cards. Because the corkboard requires a little space, it is only available when Scrivener is used on an iPad.
+To learn how to use all of the above, tap on the folder entitled “The Main Interface” in the binder, and then open the first document inside it—imaginatively titled “The Binder”. Leg schreibe jetzt einen</Text>
+		</Document>
+		<Document ID="D4CEBE5C-C424-428F-9F48-12FBDBE9ADE1">
+			<Title>Übung</Title>
+			<Text>So ich
+
+Schreibe jetzt so ich gut
+
+Kan. l ich Nichte hier fortsetzen sonst bin n Zitate als Eden also ich glaube ich muss noch recht viel üben l
+
+Aber
+
+Insgesamt geht das eigentlich ziemlich gut, finde ich &quot;
+So jetzt nocheinmal l am iparol schreiben ist gar nicht so leicht, aber eigentlich funktioniert das ganz gut das wir, kilistch cool nicht kitschig was
+Ich spreche kein anliskie und
+Du?;
+</Text>
+		</Document>
+		<Document ID="EC7EDF98-E5D3-4644-A649-0D72F0BD0BFE">
+			<Title>Referring To Research</Title>
+			<Text>You see the clock icon in the nav bar at the top (or in the toolbar at the bottom if you’re on the iPhone)? Tapping that will bring up a list of the most recent documents you have opened. The top item is always the document you had open previously. This is a great way of referring to your research files—find one in the binder and load it into the editor, and then you can use this button to switch back and forth between the research document and the text you are writing.
+Another way of making documents quickly available without having to navigate through the binder is to add them to your bookmarks list (by tapping the bookmark icon in the toolbar below the editor).
+
+Quick Reference
+If you’re on an iPad, you can open research right alongside the document in the editor, without having to flip between them. Try the following:
+1.	In the binder, swipe left in the “Finding Your Place” row.
+2.	Tap on “More”.
+3.	Tap “Quick Reference”.
+The binder is replaced by the text of the “Finding Your Place” document, so that you can refer to it as you write.
+Now hit the “back” button above sidebar to return to the binder, and then tap on the title in the navigation bar above the binder. At the bottom of the path menu, you will see that the “Finding Your Place” document is listed, so that you can load it as a Quick Reference document in the sidebar again without having to find it again first. This way, you can easily navigate to a different document, load it into the main editor, and then restore your Quick Reference document in the sidebar.
+You can also load documents into Quick Reference by swiping left on them in the corkboard.
+Now, though, let’s load “Finding Your Place” into the main editor.</Text>
+		</Document>
+		<Document ID="F68B072F-DD6C-4F90-981B-57AC240EC338">
+			<Title>Character Sheet</Title>
+			<Text>Character Name
+Role in Story
+
+
+Occupation
+
+
+Physical Description
+
+
+Personality
+
+
+Habits/Mannerisms
+
+
+Background
+
+
+Internal Conflicts
+
+
+External Conflicts
+
+
+Notes
+
+</Text>
+		</Document>
+		<Document ID="C5FC7604-C431-42FD-B614-9DAF1DC6F0E8">
+			<Title>Document Templates</Title>
+			<Text>One of the philosophies behind Scrivener is that it doesn’t force you into a particular workflow. Therefore, Scrivener doesn’t assume that everyone writing a novel (for example) uses character sheets to keep track of character information or prompt sheets for locations. Instead, Scrivener provides the means to set up “document templates” that can generate such items for those who use them.
+Document templates allow you to set up a document in the project and use it as the basis for creating new documents. Let’s try this now.
+
+	1.	In the binder, navigate back to the main “Tutorial” screen (the one containing “Recent” and “Bookmarks”. There, you will see that there is a “Templates” folder, which is just a regular folder I have named “Templates”.
+	2.	Tap onto the “Templates” folder to look inside it. I have created simple character and location sheets and placed them in this folder. I did this simply by creating a document for each, adding some text, and assigning a custom icon. At the moment, there is nothing special about the “Templates” folder, so these documents are not yet acting as templates.
+	3.	Return to the main “Tutorial” screen in the binder again, so that you can see the “Templates” folder.
+	4.	Swipe left on the “Templates” folder.
+	5.	Tap “More”.
+	6.	Tap “Set as Templates Folder”.
+You have now told Scrivener that any documents inside the “Templates” folder should be treated as document templates—you will notice that the icon of the “Templates” folder has changed to a blueprint with a “T” in it to indicate this. So let’s try creating a document from one of our templates:
+
+	1.	Drill down into the “Research” folder.
+	2.	Tap the “+” button beneath the empty binder. You are now presented with a choice of “Text”, “Character Sheet” or “Location Sheet”.
+	3.	Choose “Character Sheet”.
+After you choose a name, a fresh copy of the “Character Sheet” document will be made inside the “Research” folder, ready for you to edit.
+Okay, we’re nearly done—just a couple more things to cover. In the binder, navigate back out of the “Research” folder and then open the “Draft” folder again. Tap on the document called “Exporting and Printing”.</Text>
+		</Document>
+		<Document ID="41BF8746-1924-44D7-A7AE-B4D019AACBD1">
+			<Title>Scriptwriting</Title>
+			<Text>Perhaps you want to write a screenplay in Scrivener—you can do so in the iOS version as well as the desktop version. By default, scriptwriting features are turned off, but you can turn them on via the project settings (the gear button beneath the binder).
+When scriptwriting features are turned on, you can choose whether each new document you create should be a script document, and you can change this setting in the inspector. Script documents are denoted by a yellow text icon in the binder. When you type in them, standard scriptwriting format is automatically applied, and you can switch between the scriptwriting elements by tapping on the current element title in the navigation bar (which replaces the word count for script documents). Tabbing at the start of a line also switches between elements. If you’ve used other scriptwriting programs, it should all feel very familiar—and if you haven’t, try it out if you’re interested in scriptwriting!
+When scriptwriting is enabled, the export and Compile options allow you to export to Final Draft FDX format (the industry standard for screenplays). You can import FDX files whether scriptwriting mode is enabled or not.
+Although new projects created in the iOS version only support screenplay format for scriptwriting, if you use the desktop version of Scrivener, any projects you open in the iOS version will continue to use the formatting you have set up there—UK Stage Play, Comic Script, and so on, as well as any custom formats you have created yourself. The iOS version will simply use whatever script format is set up for the project that is open.
+Scriptwriting Tips
+•	The tab key is very useful while using scriptwriting mode, as it allows you to navigate between elements and trigger completions. If the tab key isn’t readily available on your keyboard, you can add it to the extended keyboard row by long-pressing on one of the buttons in the row and selecting it from the “Characters” list.
+•	Script documents have a half-inch indent on the left of each element, which provides industry-standard formatting when printed using paper with one-inch margins. On the iPhone, this half-inch on the left takes up valuable space, however. To reclaim this space, you can select “Hide Left Margin” in the “Scriptwriting” project settings (available via the gear menu at the bottom of the binder on the iPhone only). This option hides the left half inch of the text area when displaying script documents. (Note that if you create any text with no indent in script documents when this option is turned on, the left of the text will be clipped off the side of the editor.)
+Okay, so that covers the editor—let’s take a look at the inspector next. Return to “The Main Interface” folder in the binder and tap on the document entitled “The Inspector”.</Text>
+		</Document>
+		<Document ID="713E44FF-5574-43A3-9D75-96E410DEC41E">
+			<Title>Working with Documents</Title>
+			<Text>You can create new folders and text documents using the icons at the bottom of the binder. You can also import documents from Dropbox or iCloud using the import icon (note that when you are viewing a folder inside the Draft folder, you will be restricted to importing only text documents—Word, RTF, Final Draft and plain text files are supported for import).
+The “share” icon below the binder brings up the Compile options—we’ll cover Compile later.
+More options are available by swiping left in a row (including the option to export individual documents).
+You can tap Edit above the binder to enter editing mode. In editing mode, you can drag and drop to rearrange documents, and the icons below the binder change to present different options. The buttons available in editing mode allow you to move documents to a different folder, duplicate documents, merge documents and move them to the Trash. There’s also a “move mode” button (a cross with arrows) that changes the icons in the toolbar to buttons that allow you to move selected documents up and down, and to indent and dedent them in the outline.
+(Feel free to try any of this out in this tutorial project—remember that you can always reset the tutorial from the Getting Help screen if you lose anything.)
+That covers almost everything you need to know about using the binder, but let’s look at one more very important feature. In the binder, navigate back to the folder entitled “The Main Interface”. You’re going to look at “The Editor” next. You’ll notice that, like “The Binder”, “The Editor” is a text document with subdocuments and so has a chevron in a circle next to it that allows you to drill down. However, you don’t have to drill down—there’s another way.
+Swipe left in “The Editor” row. Because it has subdocuments, you’ll see a purple “Expand” button. Tap on it. See what happened? All of the subdocuments of “The Editor” were revealed indented right below their parent. You can do this for any document or folder that has subdocuments, and you can reveal as many levels as you want. If you swipe the row again, the purple button will be entitled “Collapse”, allowing you to tuck the subdocuments  away once more. (Note that when a folder is expanded, it will no longer show the corkboard or text icon, because while it is expanded, tapping on the row will automatically open the document in the editor, and the drill-down chevron will be replaced by a chevron-in-a-circle button that can be tapped to drill down.)
+Okay, so now tap on “The Editor”—the document you just expanded—to learn all about…</Text>
+		</Document>
+		<Document ID="583EE49C-2949-46D7-8787-A921D5DE23BD">
+			<Title>Special Folders</Title>
+			<Text>The binder contains three special folders that cannot be deleted or moved into subfolders (if you’re on the iPad, feel free to navigate back in the sidebar so that you can see the folders being described).
+The Draft folder is where you write your actual book, thesis, manuscript, screenplay—whatever it is you want to create. Anything you want in the final text goes here; notes and research files you place in folders outside of the Draft. Any documents created inside the Draft folder will be compiled into a single, longer document when you export or print using the “Compile” feature. The Draft folder is therefore special in that it can only contain text documents (and folders, which are just a special type of text document)—you cannot import or move image documents, PDF documents or any other kind of research file into the Draft folder or any of its subfolders. (You can insert images into the text of documents inside the Draft folder, however; it’s just that you cannot import images as separate documents that are not part of a text document.)
+The Research folder can hold any kind of document—text documents, image files, PDF files; whatever you need to reference to support your writing. You can also create other folders outside the Draft folder that can hold any kind of file just like the Research folder, and you can create documents at the same level as the special folders.
+The Trash folder stores any documents you’ve deleted. Nothing is permanently deleted from Scrivener until you either empty the Trash or delete individual documents from the Trash folder using swipe-edit.
+Although these three special folders cannot be deleted or nested, you are free to rename them however you want—you might change “Draft” to “Manuscript” or “Essay”, for instance.
+In the project home (that is, the list you see in the sidebar when you first open a project, before you’ve drilled down into any folders), you will also notice two special rows at the top: Recents and Bookmarks. These provide quick ways for you to access documents.
+The “Recents” list contains a list of the documents you’ve opened most recently (we’re all about apposite appellations—also alliteration), with the latest at the top. This means it’s always easy to return to where you left off when opening a project.
+The “Bookmarks” list contains a list of documents you have (you guessed it) bookmarked. You can add items to the bookmarks list by swiping on a row and choosing Add to Bookmarks from the More menu, or by tapping the bookmark icon below the editor.
+(If you navigated back to view the special folders in the sidebar earlier, you can now tap on the “Special Folders” title above the editor to reveal the current document.)
+Right, let’s move on to “Working with Documents”.</Text>
+		</Document>
+		<Document ID="D9859886-7CE6-4E75-94F9-E07BF4F92180">
+			<Title>Start Here</Title>
+			<Text>￼
+
+
+Tip: Pinch to zoom text in the editor.
+Welcome to Scrivener! This tutorial is designed to get you up and running as quickly as possible by introducing you to Scrivener’s main features. The tutorial is itself a Scrivener project, just like the ones you’ll be using for your own writing. Once you’ve finished going through it, you can return to the projects screen and tap the + button to create your own project.
+Feel free to experiment and edit this tutorial as you go. If at any time you decide you want to wipe all of your edits and restore the tutorial to its original state, simply access the Getting Help area from the projects list and tap Reset Tutorial at the bottom of the screen. There you’ll also find information on where to get more help if you need it, along with useful links.
+Okay, let’s get on with it—tap on “Key Concepts” in the sidebar to get started. (If you’re on an iPhone, or using your iPad in portrait orientation, tap on the un r back button to access the sidebar.)</Text>
+		</Document>
+		<Document ID="EDD0CDEA-75B0-4568-BBE2-FD5870049CED">
+			<Title>The Binder</Title>
+			<Synopsis>An introduction to Scrivener&apos;s binder.</Synopsis>
+			<Text>The binder—the sidebar—is the main navigation tool in Scrivener; if you’re familiar with Mail and similar iOS apps, it shouldn’t look too alien to you. The basics are simple:
+•	Tap on a document to open it in the editor.
+•	Tap on a folder to drill down into its subdocuments in the binder.
+•	Tap the back button above the binder to move back up a level.
+•	Pull down to reveal the search bar. After you’ve searched for something, you can pull down in the search results again to reveal options for how you’d like the search to be sorted.
+There are some extra navigational features, too:
+•	Inspector: Tap and hold on a document to open the inspector. This allows you to edit the title and synopsis of the document.
+•	Display Path: Tap the title in the nav bar at the top of the binder to bring up a menu showing the path to the current group being displayed. Tapping on an item in this path menu takes you straight back to the selected group, saving you from having to keep hitting the back button. The Inspector i icon in the path menu allows you to edit the title of the current group.
+•	Show Synopses: Tap the gear icon in the toolbar below the binder to bring up the Project Settings and turn on “Show Synopses” in the “Binder” settings to show the synopses for documents (you cannot do this for the project home, only when you are looking at the contents of a folder). If a document has no synopsis associated with it, the first words of its text will be displayed instead. (Note that synopses are already turned on in this tutorial project.)
+•	Expand the Binder: The “Compact”/”Expanded” option in Project Settings allows you to determine how much of your outline you can see. When &quot;Compact” is selected, synopsis font sizes are kept to the system standard and no more than three or four lines of synopses and text will be shown in the binder. When “Expanded” is selected, the synopses font becomes larger and rows expand to show all of the synopses. (Rows do not expand for documents that have no synopsis and which are therefore showing only a preview of the first lines of the text.) When “Expanded” is selected on the iPad, the binder also becomes wider. This is a great way of working with your outline right next to your text. (Note that on the iPhone, this option is not available in the project home screen, only inside folders, and appears as a simple “Compact” switch.)
+•	Folders: Folder documents have an icon on the right side of the row. This will either be a corkboard icon (iPad only) or a text icon. Tapping on it opens the folder in the editor. When it’s showing the corkboard icon, the subdocuments of the folder will be shown in the editor as index cards; when it’s showing the text icon, the text of the folder will appear in the editor. This is not the text of the folder’s subdocuments but of the folder itself—folders are really just a special type of text document, and you can change a folder to a text document and vice versa at any time using the inspector. See the section on the corkboard for more information on how these buttons work.
+•	It’s not only folder documents that can have subdocuments; other documents can too. When a text document has subdocuments, it will show a chevron contained in a circle on the right of its row. Tapping this button will navigate down into its subdocuments.
+The text document you are reading right now has subdocuments, in fact, so let’s try this out: in the binder, tap on the chevron-in-a-circle button on the right of the row containing “The Binder”, and then open the document that is revealed entitled “Special Folders”.</Text>
+		</Document>
+		<Document ID="8DA24A49-FACA-4FB5-850D-446A453E6AF5">
+			<Title>Templates</Title>
+		</Document>
+		<Document ID="3DD8E2EA-5014-43D1-9E1B-35C1AFE07DAB">
+			<Title>The Corkboard</Title>
+			<Synopsis>This is the document that tells you all about the corkboard, and it has a synopsis associated with it. On the corkboard, tap this index card with two fingers to return to open the document.</Synopsis>
+			<Text>Note: The corkboard is only available when you are running Scrivener for iOS on an iPad. If you’re reading this on an iPhone, you may therefore want to skip this section until you can read it on an iPad.
+The corkboard provides another way of getting an overview of your documents and of rearranging them. You access it by tapping the corkboard icon that appears next to folder items in the binder (or, for folder items that are expanded, simply by tapping on the row). This loads the subdocuments of the selected folder into the editor as index cards. Each index card displays the title and synopsis of its associated document (or, if there is no synopsis set, the first few words of the text). You can also show the label colour and status of each document by turning those options on via the gear menu in the project home.
+The main features of the corkboard are as follows:
+•	Pinch to resize the cards.
+•	The nav bar icons should be familiar from the editor, but there is one extra: a text icon. Tapping this switches from corkboard mode to text mode, switching the editor to show the text of the folder document (remember that folders are just a special type of text document). When you do this, all the corkboard icons in the binder change to text icons, indicating that from now on, tapping that icon will open the folder in text editor mode rather than in the corkboard. The icon above the editor now shows a corkboard icon where the text icon was before. Tapping it returns you to corkboard mode, and changes the icons in the binder back to corkboard icons.
+•	Tap on a card to open it in the editor.
+•	Tap and hold an index card to drag it to a new position on the board.
+•	Tap with two fingers on a card to select it without opening its associated document in the editor.
+•	Double-tap a card to open the inspector (if the inspector is not already open in the sidebar—when the inspector is visible in the sidebar, selecting a card updates the inspector to show meta-data for the selected document and double-tapping does nothing).
+•	Swipe left on a card to open it in Quick Reference mode (so that the document appears in the left column).
+•	In “Edit” mode, you can duplicate documents, move them to the Trash, move them into a different folder, merge them and add new folders.
+•	Images appear on the corkboard as photos (although this option can be turned off via the project settings). Other documents can also be represented by an image instead of the synopsis, though: simply assign a corkboard image to the document via the inspector. So, for instance, you could assign a character photo to a document containing character notes, so that the character’s face appears on the corkboard.
+Tip: Although the default behaviour is for taps with one finger to open documents and taps with two fingers to select without opening, this behaviour can be reversed using the “Corkboard Navigation” option in Settings app.
+But enough waffling about it—you probably want to see it for yourself. In the binder, tap back to return to the contents of the “Draft” folder, and then tap on the corkboard icon next to the folder entitled “The Main Interface”. When you’re ready to return here, simply tap with two fingers on the index card titled “The Corkboard” (or, alternatively, double-tap on it to open its inspector, and then tap on Open to open this document again).
+Done that? Okay, next tap on “Document Templates” in the binder.</Text>
+		</Document>
+		<Document ID="92F1D2EC-D107-43E9-BB59-BFBB8CCFE0CF">
+			<Title>And Finally...</Title>
+			<Text>That’s pretty much all from me, you’ll be glad to hear. If you’ve stuck with me this far, you should now be familiar with all of the main features of Scrivener for iOS, and anything I didn’t cover in detail should be easy enough to pick up through experimentation. If you need more help, though, be sure to visit the Getting Help section of the projects screen, where you can find links to our user forum and email addresses to get in touch with us directly.
+Note that you can find a number of options to customise Scrivener in Apple’s Settings app (including options to change the editor background colour, sma rt punctuation settings and more). Also, if you’re using an external keyboard, you can hold down the Command key at any time to see a list of available keyboard shortcuts (the list is contextual so will be different depending on what you are doing).
+If you experience any problems with Scrivener—no matter how small, but especially if you encounter any bugs or glitches—please do drop us a line. We work hard to ensure Scrivener is as stable as possible (and we also enjoy hearing from our users).
+Finally, thank you for choosing Scrivener. I hope you enjoy using it and that it helps you in some small way to get your words onto the page.
+Happy writing!
+– Keith Blount (Scrivener designer and developer)</Text>
+		</Document>
+		<Document ID="4BC71F19-A5D5-4DA2-8D48-DAFC3DBDA679">
+			<Title>Syncing</Title>
+			<Text>Scrivener supports Dropbox syncing so that you can easily share projects between your iOS device and Scrivener for Mac or PC.
+•	To set up Dropbox sync, tap on the “sync” icon at the top of the projects screen and select Link Dropbox. As long as you have an internet connection, that will bring up the Dropbox sign-in window, allowing you to sign in to your Dropbox account (if you don’t have one, you can get one from http://www.getdropbox.com).
+•	Once you’ve signed in to your Dropbox account, you will be asked to choose a folder on Dropbox with which to sync your Scrivener projects. By default, Scrivener will create and sync with the Dropbox/Apps/Scrivener folder. However, you can choose any folder you wish. If you do choose a folder other than /Apps/Scrivener, note that it’s best to choose either an empty folder or one that only contains Scrivener projects.
+•	After you’ve selected a folder, Scrivener will sync with Dropbox and download any projects already stored there.
+•	Note that Scrivener will sync everything in the selected folder with your device, even though it will only show Scrivener projects, so it is strongly recommended that you don’t store any files in the selected folder that you don’t want downloaded.
+•	Projects stored on Dropbox appear in their own section at the top of the projects screen.
+•	You can move projects you have stored locally into Dropbox by tapping Edit and dragging them into the Dropbox section.
+•	If you have projects on your desktop that you want to sync with iOS, place them in the Dropbox/Apps/Scrivener folder (or the Dropbox folder you chose in the above steps) on your Mac or PC. (Note that projects in the “Dropbox” section are stored both on Dropbox and locally, so you don’t need an internet connection to open them, only to sync them.)
+•	When you have projects stored on Dropbox, Scrivener will make periodic checks for remote changes (such as when you open Scrivener), and it will notify you if it detects any. The sidebar icons for projects stored on Dropbox change to indicate pending uploads or downloads.
+•	When you’ve made changes and are ready to sync with Dropbox, tap the “sync” icon in the navigation bar. (Note that because Scrivener projects contain multiple files, including files for the project structure and settings, you may see the progress reporting more files being transferred than you actually edited.)
+
+Avoiding Sync Problems
+Because a Scrivener project contains multiple files, you need to be a little careful when syncing between devices. In particular, before opening a project in the iOS version, make sure that Dropbox has had time to sync all the files from the desktop version. This means ensuring that the desktop Dropbox client finished syncing all of your files on the desktop, and ensuring that you’ve tapped “sync” (or responded to the notification that you need to sync) on your iOS device.
+Before returning to your desktop, you need to make sure that you’ve tapped “sync” on your iOS device and let the sync complete, and then, when you’re back at your desktop, you need to ensure that the Dropbox client has finished syncing there before continuing to use the project. If your project was left open on the desktop, Scrivener for Mac or Windows should prompt you that it needs to update the project with the changes made in the mobile version; if it doesn’t, select Sync &gt; with Mobile Devices from the File menu. If your project wasn’t open, it will automatically incorporate all of the changes when it is next opened.
+If something goes wrong with the syncing process—for instance if Dropbox creates conflicted files (as it is sometimes wont to do), or if things weren’t synced properly between devices—Scrivener will do its best to warn you to wait for Dropbox to finish syncing, and if all else fails, Scrivener will ask you which version of the project (mobile or desktop) to prioritise, and then it will merge all the changes and create duplicates of any conflicted files and place them in a special “Sync Conflicts” folder within the project. So if the worst comes to the worst and you run into sync problems, you shouldn’t lose any data—you’ll just need to sort through a few duplicate documents to see which ones you want to keep and which ones you no longer need.
+
+Other Files
+You can also use Dropbox to share other files with Scrivener:
+•	If you create a /Fonts subfolder inside the Dropbox folder that is set to sync with Scrivener (e.g. /Apps/Scrivener/Fonts), any font files placed inside it will automatically be read by Scrivener on launch and made available in the formatting palette.
+•	If you have set up custom formatting presets in the Mac version of Scrivener, you can export them from the Mac using the Format &gt; Formatting &gt; Export Presets for iOS… menu item and save the resulting presets.plist file inside the Dropbox folder set to sync with Scrivener. The iOS version will then use these presets in its formatting palette.
+•	Compile Appearance (.scomp) files can also be stored in the synced Dropbox folder (in a “Compile” subfolder).
+
+Unlinking Dropbox
+If you ever want to unlink Scrivener from your Dropbox account, you can do so using the options available from the gear menu at the bottom of the projects screen in “Edit” mode. When you do so, you’ll be given the option of deleting the local copies of your Dropbox projects or keeping them on your device.
+And that is about all you need to know—open the “And Finally…” document back in the project home to finish up.</Text>
+		</Document>
+		<Document ID="69D05516-94C0-41F8-BF1A-FB8D5B00BE2C">
+			<Title>Finding Your Place</Title>
+			<Text>If you’re ever looking at a document in the editor and find yourself wondering where it is in the binder, you can simply tap on the title in the editor header bar. This will load up the binder with the document you were viewing in the editor selected (very much like the “Reveal in Binder” feature of the desktop version).
+When running on the iPad, Scrivener also has an extra navigation tool: the Draft navigator. This is available whenever you are viewing a text document contained inside the Draft folder, and you open it by tapping on the icon of three lines next to the bookmarks icon in the toolbar at the bottom of the screen. The Draft navigator shows the text of all the documents in your Draft folder, each one divided by a dashed line. You can scroll through it—or use the navigation controls—and tap on the text of a document to load it into the editor. Double-tapping into a document will load it into the editor ready for editing at the place you tapped. This is a great way of seeing a quick preview of all the text in your Draft without compiling.
+Tap on “Scriptwriting” in the binder to continue.</Text>
+		</Document>
+		<Document ID="5EDEBB94-5C7A-47AD-B6AB-8E21ACA120FD">
+			<Title>The Inspector</Title>
+			<Text>The inspector can be accessed by long-pressing an item in the binder, by tapping the i button in the editor, or by double-tapping an index card on the corkboard (iPad-only). It allows you to view and edit the meta-data associated with any document in your project. When you access the inspector from the editor, it will be loaded into the sidebar, replacing the binder, so that you can refer to it alongside your document. When accessed from the binder or corkboard, the inspector appears as a pop-up panel.
+The following meta-data is associated with each document:
+•	Title
+•	Synopsis (an optional brief, plain text description of what is contained—or to be contained—in the document)
+•	Created and modified dates
+•	Label (a colour and text tag you can use to tell you more about the document)
+•	Status (e.g. “To Do”, “Done”)
+•	Notes (an area in which you can make notes on the document that don’t belong in the main text area)
+•	Icon (you can associate a custom icon with any document)
+•	Corkboard image (the image used to represent the document on the corkboard, if any)
+For folder and text documents, the inspector also allows you to toggle the document between being a folder and text file. If you have scriptwriting mode turned on (available in the gear menu at the bottom of the binder), you can further determine whether text documents should use scriptwriting mode or not.
+Note: The special root folders—the Draft, Research and Trash folders—only allow you to edit their titles via the inspector, as they do not have any other meta-data associated with them.
+How much you use meta-data is entirely up to you of course, and it might vary from project to project.
+
+Label and Status
+The label and status lists are fully customisable. To edit them, simply drill down into the label or status list via the inspector and then tap on Edit. You can delete items, move them around, create new ones and change their names. Tapping on the colour disc of a label in Edit mode brings up a list of colours, allowing you to change the colour associated with a label. You can even change the titles “Label” and “Status” to something else—so you could, for instance, change the label list to a list of characters and rename “Label” to “POV”, for “point of view”. (Note that the “No Label” and “No Status” items can be renamed but cannot be deleted.)
+Label colours can be displayed in the binder and corkboard (iPad-only), and status names can be displayed as rubber stamps across index cards in the corkboard as well as in the binder—you can turn these options on and off using the project settings, which you can access by tapping the gear icon beneath the binder sidebar.
+Right, now let’s take a look at the corkboard—you know the drill by now, tap on the document entitled “The Corkboard” in the binder.</Text>
+		</Document>
+		<Document ID="70226D53-9976-46E4-B951-4AF8B3EDC1B7">
+			<Title>Exporting and Printing</Title>
+			<Synopsis>How to get your work out of Scrivener.</Synopsis>
+			<Text>There are two ways of getting your work out of Scrivener:
+
+Exporting and Printing Individual Documents
+You can export or print any individual document in Scrivener by tapping the “share” icon that appears in the toolbar beneath the editor (when you’re not editing). Alternatively, you can swipe left in a row in the binder and tap More to access the same export options. You can export text documents to the following formats:
+•	Word (.docx). Word documents can also be opened by Pages.
+•	Rich text (.rtf). RTF documents can be opened by a wide variety of desktop word processors, although there is not yet much support for it among other iOS apps.
+•	PDF format.
+•	Plain text (.txt).
+•	Final Draft (.fdx). This format is only available if scriptwriting features are turned on via the project settings.
+Non-text documents such as images are exported using their original format. You can then choose whether to share documents via Mail, Messages or another app, to open them in another app directly, or to print text documents.
+
+Compiling Your Draft
+One of the key concepts of Scrivener is that you work on your manuscript in pieces as small or large as you want, but this wouldn’t be of much use if you couldn’t put Humpty together again. As already covered, the “Draft” folder is where you write your manuscript. When you’re ready to export or print your entire draft, you need to “compile” it. Compiling doesn’t affect the original documents—they all stay as they were in the Draft folder—it merely combines them into a new text that is used purely for exporting or printing.
+To compile, do one of the following:
+•	Tap the “share” icon in the toolbar below the editor when viewing a text document stored inside the Draft folder, and choose Compile Draft from the menu that appears.
+•	Tap the compile icon (two pieces of paper with an arrow pointing up) that appears in the toolbar below the binder.
+Upon so doing, you will be presented with an options screen. Here you can choose the export file format (Word, RTF, PDF, plain text or FDX), along with certain other options. Once you’ve selected the options you want, simply tap Compile and wait for the compiled text to be generated. At the end of this process, you’ll see a new screen that shows a preview of how your text will look if you print it, along with a word and character count for the entire Draft—making this a great way to find the total word count for your manuscript. You can now choose to Share the document, which allows you to send it via Mail or Messages (or to print it), or to Open In, which allows you to send the document to any applications that support the selected export format.
+
+Appearances
+One of the most powerful aspects of Compile is the “Appearance” setting. This allows you to choose a preset that can completely transform the appearance of your document. For instance, the “Manuscript (Courier)” appearance will convert all of the text to a Courier 12-point font with italics converted to underlines, with folder titles included and centred and hash (#) symbols inserted between each text document. Choosing “Default” for “Appearance”, on the other hand, compiles your text so that it looks exactly as it does in the editor, preset in “Edit” mode allows you to edit the preset. (You can only edit custom Appearances, however, and not the built-in ones, so try duplicating a preset to test this.). Appearance presets in Scrivener for iOS are created using the YAML format, which is a markup language designed to be easily read by humans. When viewing the Appearance editor, tap the icon of the help ring in the navigation bar to view instructions on how to create your own Appearance presets—there you will find a complete list  of the commands available. But, for instance, suppose you created an Appearance preset containing only the following:
+
+Font Family: Cochin ￼ r
+This preset would do nothing more than change the font
+Tip: the bitte dasitzt gar nicht so ein
+. Und los geht&apos;s mitbesonders an der nichtigenstelle zu schreiben ist nicht einfach, leiden. Ver muthich ist esabereher ein e übungssache.
+Dem Schreiben. Fach möchte ich sagen.
+ pre&apos;so ich möchte Sekt ein Eugen da etwas sets, such as the Manuscript and Book ones, have tips inside them on how to edit them to suit different project structures. Try duplicating “Manuscript (Times)”, for instance, and then editing it by tapping on the “i” in the duplicate’s row. There you will find information on how to add automatic chapter and part numbering.
+Next, on to “Working with Projects”. &apos;</Text>
+		</Document>
+	</Documents>
+</SearchIndexes>
