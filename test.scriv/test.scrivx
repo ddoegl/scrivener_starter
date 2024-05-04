@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="33335934-7AC6-4140-A513-21DEC5EE93DF" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Daniels-Mac-mini" Author="" Modified="2024-05-04 20:52:06 +0200" ModID="D4FA859E-951B-4872-BBBE-0EB9FE52FD88">
+    <Binder>
+        <BinderItem UUID="F0C22E6B-90E2-4B32-B23F-6038B7BCD6E3" Type="DraftFolder" Created="2012-04-24 02:00:00 +0200" Modified="2012-04-24 02:00:00 +0200">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="0C67CC54-D427-440A-83BE-A9906E838901" Type="Text" Created="2024-05-04 20:51:59 +0200" Modified="2024-05-04 20:52:06 +0200">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="3D33B634-BED4-4E07-957D-E50A96703991" Type="ResearchFolder" Created="2012-04-24 02:00:00 +0200" Modified="2012-04-24 02:00:00 +0200">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="CEF6EE2F-8AC5-4650-953F-59DC34220EB9" Type="TrashFolder" Created="2012-04-24 02:00:00 +0200" Modified="2012-04-24 02:00:00 +0200">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="CAFEBABE-0000-0000-0000-000000000000" Color="1.0 1.0 1.0">
+            <Title>Mappe</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="DEADBEEF-0000-0000-0000-000000000000" Color="0.922173 0.818612 0.999627">
+            <Title>Suchergebnisse</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="5313F6AD-80B4-4833-8965-58A876D03B51">Kopfzeile</Type>
+            <Type ID="419AEE88-E196-485E-8B24-00D5FD449D46">Unterüberschrift</Type>
+            <Type ID="1F6AA582-0993-49EB-BD14-8FB7D8C98C81">Abschnitt</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>5313F6AD-80B4-4833-8965-58A876D03B51</Type>
+            </Folders>
+            <Containers>
+                <Type>1F6AA582-0993-49EB-BD14-8FB7D8C98C81</Type>
+            </Containers>
+            <Files>
+                <Type>1F6AA582-0993-49EB-BD14-8FB7D8C98C81</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="1" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-04-24 02:00:00 +0200" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-05-05 01:00:00 +0200" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="2" Characters="10" Date="2024-05-04 20:51:30 +0200"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2024-05-04 20:51:30 +0200">
+        <DraftWordCount>2</DraftWordCount>
+        <DraftCharCount>10</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>
