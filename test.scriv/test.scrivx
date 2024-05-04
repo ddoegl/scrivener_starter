@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="33335934-7AC6-4140-A513-21DEC5EE93DF" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Daniels-Mac-mini" Author="" Modified="2024-05-04 20:52:06 +0200" ModID="D4FA859E-951B-4872-BBBE-0EB9FE52FD88">
+<ScrivenerProject Identifier="33335934-7AC6-4140-A513-21DEC5EE93DF" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Daniels-Mac-mini" Author="" Modified="2024-05-04 21:09:47 +0200" ModID="02467F6F-B40A-4379-9FCE-0A68CF528A61">
     <Binder>
         <BinderItem UUID="F0C22E6B-90E2-4B32-B23F-6038B7BCD6E3" Type="DraftFolder" Created="2012-04-24 02:00:00 +0200" Modified="2012-04-24 02:00:00 +0200">
             <Title>Draft</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
             <Children>
-                <BinderItem UUID="0C67CC54-D427-440A-83BE-A9906E838901" Type="Text" Created="2024-05-04 20:51:59 +0200" Modified="2024-05-04 20:52:06 +0200">
+                <BinderItem UUID="0C67CC54-D427-440A-83BE-A9906E838901" Type="Text" Created="2024-05-04 20:51:59 +0200" Modified="2024-05-04 21:09:47 +0200">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>56,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D81E7D0E-8AD2-42C1-8598-AD54EDFEBF16" Type="Text" Created="2024-05-04 21:00:43 +0200" Modified="2024-05-04 21:09:47 +0200">
+                    <Title>2nd test</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -19,23 +25,21 @@
         </BinderItem>
         <BinderItem UUID="3D33B634-BED4-4E07-957D-E50A96703991" Type="ResearchFolder" Created="2012-04-24 02:00:00 +0200" Modified="2012-04-24 02:00:00 +0200">
             <Title>Research</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
         </BinderItem>
         <BinderItem UUID="CEF6EE2F-8AC5-4650-953F-59DC34220EB9" Type="TrashFolder" Created="2012-04-24 02:00:00 +0200" Modified="2012-04-24 02:00:00 +0200">
             <Title>Trash</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="Binder" ID="CAFEBABE-0000-0000-0000-000000000000" Color="1.0 1.0 1.0">
+        <Collection Type="Binder" ID="CAFEBABE-0000-0000-0000-000000000000" Color="0.112547 0.112547 0.112547">
             <Title>Mappe</Title>
         </Collection>
-        <Collection Type="RecentSearch" ID="DEADBEEF-0000-0000-0000-000000000000" Color="0.922173 0.818612 0.999627">
+        <Collection Type="RecentSearch" ID="DEADBEEF-0000-0000-0000-000000000000" Color="0.190666 0.172707 0.216531">
             <Title>Suchergebnisse</Title>
+        </Collection>
+        <Collection Type="Arbitrary" ID="BEF5CC42-B815-4046-83A2-2480FC695EF6" Color="0.992 0.973 0.769">
+            <Title>Synchronisierte Dokumente</Title>
+            <BinderUUIDs>0C67CC54-D427-440A-83BE-A9906E838901,D81E7D0E-8AD2-42C1-8598-AD54EDFEBF16</BinderUUIDs>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -80,11 +84,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-04-24 02:00:00 +0200" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-05-05 01:00:00 +0200" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="2" Characters="10" Date="2024-05-04 20:51:30 +0200"/>
+        <PreviousSession Words="5" Characters="32" Date="2024-05-04 21:08:55 +0200"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-05-04 20:51:30 +0200">
-        <DraftWordCount>2</DraftWordCount>
-        <DraftCharCount>10</DraftCharCount>
+        <DraftWordCount>11</DraftWordCount>
+        <DraftCharCount>69</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
